@@ -1,0 +1,1443 @@
+Model3----Dataset1------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=719,obj2=736
+snp_number=1000,sample_number=4000,obj1=719,obj2=736
+snp_number=1000,sample_number=4000,obj1=719,obj2=736
+snp_number=1000,sample_number=4000,obj1=719,obj2=736
+snp_number=1000,sample_number=4000,obj1=719,obj2=736
+N719,N736,f1=2737.51,f2=-0.354492,isDominant=1
+--------The 0-th outer loop ends--------
+N719,N736,f1=2737.51,f2=-0.354492,isDominant=1
+N719,N736,f1=2737.51,f2=-0.354492,isDominant=1
+--------The 1-th outer loop ends--------
+N719,N736,f1=2737.51,f2=-0.354492,isDominant=1
+N719,N736,f1=2737.51,f2=-0.354492,isDominant=1
+--------The 2-th outer loop ends--------
+N719,N736,f1=2737.51,f2=-0.354492,isDominant=1
+N719,N736,f1=2737.51,f2=-0.354492,isDominant=1
+--------The 3-th outer loop ends--------
+N719,N736,f1=2737.51,f2=-0.354492,isDominant=1
+N719,N736,f1=2737.51,f2=-0.354492,isDominant=1
+--------The 4-th outer loop ends--------
+N719,N736,2737.51,-0.354492,1
+N719,N736,2737.51,-0.354492,1
+N719,N736,2737.51,-0.354492,1
+---------------------------------Right_Dataset_Num=1
+--------The 5-th outer loop ends--------
+Running_time= 4.926006
+Model3----Dataset2------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=706,obj2=405
+snp_number=1000,sample_number=4000,obj1=706,obj2=405
+snp_number=1000,sample_number=4000,obj1=706,obj2=405
+snp_number=1000,sample_number=4000,obj1=706,obj2=405
+snp_number=1000,sample_number=4000,obj1=706,obj2=405
+N706,N405,f1=2728.67,f2=-0.355743,isDominant=1
+N405,N706,f1=2728.67,f2=-0.355743,isDominant=1
+--------The 0-th outer loop ends--------
+N706,N405,f1=2728.67,f2=-0.355743,isDominant=1
+N405,N706,f1=2728.67,f2=-0.355743,isDominant=1
+--------The 1-th outer loop ends--------
+N706,N405,f1=2728.67,f2=-0.355743,isDominant=1
+N405,N706,f1=2728.67,f2=-0.355743,isDominant=1
+--------The 2-th outer loop ends--------
+N706,N405,f1=2728.67,f2=-0.355743,isDominant=1
+N405,N706,f1=2728.67,f2=-0.355743,isDominant=1
+N706,N405,f1=2728.67,f2=-0.355743,isDominant=1
+N405,N706,f1=2728.67,f2=-0.355743,isDominant=1
+--------The 3-th outer loop ends--------
+N706,N405,f1=2728.67,f2=-0.355743,isDominant=1
+N405,N706,f1=2728.67,f2=-0.355743,isDominant=1
+N706,N405,f1=2728.67,f2=-0.355743,isDominant=1
+N405,N706,f1=2728.67,f2=-0.355743,isDominant=1
+N706,N405,f1=2728.67,f2=-0.355743,isDominant=1
+N405,N706,f1=2728.67,f2=-0.355743,isDominant=1
+--------The 4-th outer loop ends--------
+N706,N405,2728.67,-0.355743,1
+N405,N706,2728.67,-0.355743,1
+N706,N405,2728.67,-0.355743,1
+N405,N706,2728.67,-0.355743,1
+N706,N405,2728.67,-0.355743,1
+N405,N706,2728.67,-0.355743,1
+N706,N405,2728.67,-0.355743,1
+N405,N706,2728.67,-0.355743,1
+---------------------------------Right_Dataset_Num=2
+--------The 5-th outer loop ends--------
+Running_time= 4.626053
+Model3----Dataset3------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=194,obj2=87
+snp_number=1000,sample_number=4000,obj1=194,obj2=87
+snp_number=1000,sample_number=4000,obj1=194,obj2=87
+snp_number=1000,sample_number=4000,obj1=194,obj2=87
+snp_number=1000,sample_number=4000,obj1=194,obj2=87
+N194,N87,f1=2748.57,f2=-0.353433,isDominant=1
+N87,N194,f1=2748.57,f2=-0.353433,isDominant=1
+--------The 0-th outer loop ends--------
+N194,N87,f1=2748.57,f2=-0.353433,isDominant=1
+N87,N194,f1=2748.57,f2=-0.353433,isDominant=1
+--------The 1-th outer loop ends--------
+N87,N194,f1=2748.57,f2=-0.353433,isDominant=1
+N194,N87,f1=2748.57,f2=-0.353433,isDominant=1
+N194,N87,f1=2748.57,f2=-0.353433,isDominant=1
+N87,N194,f1=2748.57,f2=-0.353433,isDominant=1
+--------The 2-th outer loop ends--------
+N87,N194,f1=2748.57,f2=-0.353433,isDominant=1
+N194,N87,f1=2748.57,f2=-0.353433,isDominant=1
+N194,N87,f1=2748.57,f2=-0.353433,isDominant=1
+N87,N194,f1=2748.57,f2=-0.353433,isDominant=1
+--------The 3-th outer loop ends--------
+N87,N194,f1=2748.57,f2=-0.353433,isDominant=1
+N194,N87,f1=2748.57,f2=-0.353433,isDominant=1
+N194,N87,f1=2748.57,f2=-0.353433,isDominant=1
+N87,N194,f1=2748.57,f2=-0.353433,isDominant=1
+--------The 4-th outer loop ends--------
+N87,N194,2748.57,-0.353433,1
+N194,N87,2748.57,-0.353433,1
+N194,N87,2748.57,-0.353433,1
+N87,N194,2748.57,-0.353433,1
+---------------------------------Right_Dataset_Num=3
+--------The 5-th outer loop ends--------
+Running_time= 4.617666
+Model3----Dataset4------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=510,obj2=53
+snp_number=1000,sample_number=4000,obj1=510,obj2=53
+snp_number=1000,sample_number=4000,obj1=510,obj2=53
+snp_number=1000,sample_number=4000,obj1=510,obj2=53
+snp_number=1000,sample_number=4000,obj1=510,obj2=53
+M0P2,N53,f1=2770.39,f2=-0.350591,isDominant=1
+--------The 0-th outer loop ends--------
+N510,N53,f1=2735.19,f2=-0.354595,isDominant=1
+--------The 1-th outer loop ends--------
+N510,N53,f1=2735.19,f2=-0.354595,isDominant=1
+--------The 2-th outer loop ends--------
+N510,N53,f1=2735.19,f2=-0.354595,isDominant=1
+--------The 3-th outer loop ends--------
+N510,N53,f1=2735.19,f2=-0.354595,isDominant=1
+--------The 4-th outer loop ends--------
+N510,N53,2735.19,-0.354595,1
+N510,N53,2735.19,-0.354595,1
+---------------------------------Right_Dataset_Num=4
+--------The 5-th outer loop ends--------
+Running_time= 4.621790
+Model3----Dataset5------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=695,obj2=998
+snp_number=1000,sample_number=4000,obj1=695,obj2=998
+snp_number=1000,sample_number=4000,obj1=695,obj2=998
+snp_number=1000,sample_number=4000,obj1=695,obj2=998
+snp_number=1000,sample_number=4000,obj1=695,obj2=998
+N695,M0P1,f1=2734.37,f2=-0.355118,isDominant=1
+--------The 0-th outer loop ends--------
+N695,M0P1,f1=2734.37,f2=-0.355118,isDominant=1
+--------The 1-th outer loop ends--------
+N695,M0P1,f1=2734.37,f2=-0.355118,isDominant=1
+--------The 2-th outer loop ends--------
+N695,M0P1,f1=2734.37,f2=-0.355118,isDominant=1
+--------The 3-th outer loop ends--------
+N695,M0P1,f1=2734.37,f2=-0.355118,isDominant=1
+--------The 4-th outer loop ends--------
+N695,M0P1,2734.37,-0.355118,1
+---------------------------------Right_Dataset_Num=5
+--------The 5-th outer loop ends--------
+Running_time= 4.622663
+Model3----Dataset6------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=955,obj2=419
+snp_number=1000,sample_number=4000,obj1=955,obj2=419
+snp_number=1000,sample_number=4000,obj1=955,obj2=419
+snp_number=1000,sample_number=4000,obj1=955,obj2=419
+snp_number=1000,sample_number=4000,obj1=955,obj2=419
+N419,N795,f1=2768.34,f2=-0.350676,isDominant=1
+N419,N795,f1=2768.34,f2=-0.350676,isDominant=1
+N259,N419,f1=2765.04,f2=-0.350536,isDominant=1
+--------The 0-th outer loop ends--------
+N196,N419,f1=2764.17,f2=-0.351676,isDominant=1
+--------The 1-th outer loop ends--------
+N419,N955,f1=2737.26,f2=-0.354825,isDominant=1
+--------The 2-th outer loop ends--------
+N419,N955,f1=2737.26,f2=-0.354825,isDominant=1
+--------The 3-th outer loop ends--------
+N419,N955,f1=2737.26,f2=-0.354825,isDominant=1
+--------The 4-th outer loop ends--------
+N419,N955,2737.26,-0.354825,1
+---------------------------------Right_Dataset_Num=6
+--------The 5-th outer loop ends--------
+Running_time= 4.615349
+Model3----Dataset7------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=635,obj2=891
+snp_number=1000,sample_number=4000,obj1=635,obj2=891
+snp_number=1000,sample_number=4000,obj1=635,obj2=891
+snp_number=1000,sample_number=4000,obj1=635,obj2=891
+snp_number=1000,sample_number=4000,obj1=635,obj2=891
+N891,N730,f1=2769.51,f2=-0.350857,isDominant=1
+N730,N891,f1=2769.51,f2=-0.350857,isDominant=1
+N655,N891,f1=2767.97,f2=-0.350553,isDominant=1
+N891,N655,f1=2767.97,f2=-0.350553,isDominant=1
+--------The 0-th outer loop ends--------
+N891,N635,f1=2748.1,f2=-0.353333,isDominant=1
+N635,N891,f1=2748.1,f2=-0.353333,isDominant=1
+N891,N635,f1=2748.1,f2=-0.353333,isDominant=1
+--------The 1-th outer loop ends--------
+N891,N635,f1=2748.1,f2=-0.353333,isDominant=1
+N635,N891,f1=2748.1,f2=-0.353333,isDominant=1
+N891,N635,f1=2748.1,f2=-0.353333,isDominant=1
+N635,N891,f1=2748.1,f2=-0.353333,isDominant=1
+N891,N635,f1=2748.1,f2=-0.353333,isDominant=1
+--------The 2-th outer loop ends--------
+N891,N635,f1=2748.1,f2=-0.353333,isDominant=1
+N635,N891,f1=2748.1,f2=-0.353333,isDominant=1
+N891,N635,f1=2748.1,f2=-0.353333,isDominant=1
+N635,N891,f1=2748.1,f2=-0.353333,isDominant=1
+N891,N635,f1=2748.1,f2=-0.353333,isDominant=1
+--------The 3-th outer loop ends--------
+N891,N635,f1=2748.1,f2=-0.353333,isDominant=1
+N635,N891,f1=2748.1,f2=-0.353333,isDominant=1
+N891,N635,f1=2748.1,f2=-0.353333,isDominant=1
+N635,N891,f1=2748.1,f2=-0.353333,isDominant=1
+N891,N635,f1=2748.1,f2=-0.353333,isDominant=1
+--------The 4-th outer loop ends--------
+N891,N635,2748.1,-0.353333,1
+N635,N891,2748.1,-0.353333,1
+N891,N635,2748.1,-0.353333,1
+N635,N891,2748.1,-0.353333,1
+N891,N635,2748.1,-0.353333,1
+---------------------------------Right_Dataset_Num=7
+--------The 5-th outer loop ends--------
+Running_time= 4.617811
+Model3----Dataset8------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=798,obj2=865
+snp_number=1000,sample_number=4000,obj1=798,obj2=865
+snp_number=1000,sample_number=4000,obj1=798,obj2=865
+snp_number=1000,sample_number=4000,obj1=798,obj2=865
+snp_number=1000,sample_number=4000,obj1=798,obj2=865
+--------The 0-th outer loop ends--------
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+N798,N865,f1=2738.96,f2=-0.354395,isDominant=1
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+N798,N865,f1=2738.96,f2=-0.354395,isDominant=1
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+--------The 1-th outer loop ends--------
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+N798,N865,f1=2738.96,f2=-0.354395,isDominant=1
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+N798,N865,f1=2738.96,f2=-0.354395,isDominant=1
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+--------The 2-th outer loop ends--------
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+N798,N865,f1=2738.96,f2=-0.354395,isDominant=1
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+N798,N865,f1=2738.96,f2=-0.354395,isDominant=1
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+--------The 3-th outer loop ends--------
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+N798,N865,f1=2738.96,f2=-0.354395,isDominant=1
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+N798,N865,f1=2738.96,f2=-0.354395,isDominant=1
+N865,N798,f1=2738.96,f2=-0.354395,isDominant=1
+--------The 4-th outer loop ends--------
+N865,N798,2738.96,-0.354395,1
+N798,N865,2738.96,-0.354395,1
+N865,N798,2738.96,-0.354395,1
+N798,N865,2738.96,-0.354395,1
+N865,N798,2738.96,-0.354395,1
+N798,N865,2738.96,-0.354395,1
+N865,N798,2738.96,-0.354395,1
+---------------------------------Right_Dataset_Num=8
+--------The 5-th outer loop ends--------
+Running_time= 4.616366
+Model3----Dataset9------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=851,obj2=38
+snp_number=1000,sample_number=4000,obj1=851,obj2=38
+snp_number=1000,sample_number=4000,obj1=851,obj2=38
+snp_number=1000,sample_number=4000,obj1=851,obj2=38
+snp_number=1000,sample_number=4000,obj1=851,obj2=38
+N851,N88,f1=2766.27,f2=-0.351567,isDominant=1
+N122,N851,f1=2763.96,f2=-0.351163,isDominant=1
+N851,N122,f1=2763.96,f2=-0.351163,isDominant=1
+N88,N851,f1=2766.27,f2=-0.351567,isDominant=1
+N88,N851,f1=2766.27,f2=-0.351567,isDominant=1
+N875,N851,f1=2765.7,f2=-0.351393,isDominant=1
+N122,N851,f1=2763.96,f2=-0.351163,isDominant=1
+--------The 0-th outer loop ends--------
+N851,N38,f1=2732.09,f2=-0.35528,isDominant=1
+N38,N851,f1=2732.09,f2=-0.35528,isDominant=1
+N38,N851,f1=2732.09,f2=-0.35528,isDominant=1
+--------The 1-th outer loop ends--------
+N851,N38,f1=2732.09,f2=-0.35528,isDominant=1
+N38,N851,f1=2732.09,f2=-0.35528,isDominant=1
+N38,N851,f1=2732.09,f2=-0.35528,isDominant=1
+--------The 2-th outer loop ends--------
+N851,N38,f1=2732.09,f2=-0.35528,isDominant=1
+N38,N851,f1=2732.09,f2=-0.35528,isDominant=1
+N38,N851,f1=2732.09,f2=-0.35528,isDominant=1
+--------The 3-th outer loop ends--------
+N851,N38,f1=2732.09,f2=-0.35528,isDominant=1
+N38,N851,f1=2732.09,f2=-0.35528,isDominant=1
+N851,N38,f1=2732.09,f2=-0.35528,isDominant=1
+N38,N851,f1=2732.09,f2=-0.35528,isDominant=1
+N38,N851,f1=2732.09,f2=-0.35528,isDominant=1
+--------The 4-th outer loop ends--------
+N851,N38,2732.09,-0.35528,1
+N38,N851,2732.09,-0.35528,1
+N851,N38,2732.09,-0.35528,1
+N38,N851,2732.09,-0.35528,1
+N38,N851,2732.09,-0.35528,1
+---------------------------------Right_Dataset_Num=9
+--------The 5-th outer loop ends--------
+Running_time= 4.623160
+Model3----Dataset10------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=804,obj2=947
+snp_number=1000,sample_number=4000,obj1=804,obj2=947
+snp_number=1000,sample_number=4000,obj1=804,obj2=947
+snp_number=1000,sample_number=4000,obj1=804,obj2=947
+snp_number=1000,sample_number=4000,obj1=804,obj2=947
+N947,N804,f1=2737.19,f2=-0.354727,isDominant=1
+N804,N947,f1=2737.19,f2=-0.354727,isDominant=1
+N804,N947,f1=2737.19,f2=-0.354727,isDominant=1
+--------The 0-th outer loop ends--------
+N947,N804,f1=2737.19,f2=-0.354727,isDominant=1
+N804,N947,f1=2737.19,f2=-0.354727,isDominant=1
+N804,N947,f1=2737.19,f2=-0.354727,isDominant=1
+--------The 1-th outer loop ends--------
+N947,N804,f1=2737.19,f2=-0.354727,isDominant=1
+N804,N947,f1=2737.19,f2=-0.354727,isDominant=1
+N804,N947,f1=2737.19,f2=-0.354727,isDominant=1
+--------The 2-th outer loop ends--------
+N947,N804,f1=2737.19,f2=-0.354727,isDominant=1
+N804,N947,f1=2737.19,f2=-0.354727,isDominant=1
+N804,N947,f1=2737.19,f2=-0.354727,isDominant=1
+--------The 3-th outer loop ends--------
+N947,N804,f1=2737.19,f2=-0.354727,isDominant=1
+N804,N947,f1=2737.19,f2=-0.354727,isDominant=1
+N804,N947,f1=2737.19,f2=-0.354727,isDominant=1
+--------The 4-th outer loop ends--------
+N804,N947,2737.19,-0.354727,1
+N947,N804,2737.19,-0.354727,1
+N947,N804,2737.19,-0.354727,1
+N804,N947,2737.19,-0.354727,1
+N804,N947,2737.19,-0.354727,1
+---------------------------------Right_Dataset_Num=10
+--------The 5-th outer loop ends--------
+Running_time= 4.620109
+Model3----Dataset11------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=579,obj2=470
+snp_number=1000,sample_number=4000,obj1=579,obj2=470
+snp_number=1000,sample_number=4000,obj1=579,obj2=470
+snp_number=1000,sample_number=4000,obj1=579,obj2=470
+snp_number=1000,sample_number=4000,obj1=579,obj2=470
+N496,N579,f1=2763.19,f2=-0.351063,isDominant=1
+N579,N496,f1=2763.19,f2=-0.351063,isDominant=1
+N579,N74,f1=2765.94,f2=-0.351235,isDominant=1
+N579,N496,f1=2763.19,f2=-0.351063,isDominant=1
+N579,N24,f1=2766.4,f2=-0.351488,isDominant=1
+--------The 0-th outer loop ends--------
+N579,N470,f1=2742.15,f2=-0.353952,isDominant=1
+--------The 1-th outer loop ends--------
+N579,N470,f1=2742.15,f2=-0.353952,isDominant=1
+N470,N579,f1=2742.15,f2=-0.353952,isDominant=1
+--------The 2-th outer loop ends--------
+N579,N470,f1=2742.15,f2=-0.353952,isDominant=1
+N470,N579,f1=2742.15,f2=-0.353952,isDominant=1
+--------The 3-th outer loop ends--------
+N579,N470,f1=2742.15,f2=-0.353952,isDominant=1
+N470,N579,f1=2742.15,f2=-0.353952,isDominant=1
+--------The 4-th outer loop ends--------
+N579,N470,2742.15,-0.353952,1
+N470,N579,2742.15,-0.353952,1
+---------------------------------Right_Dataset_Num=11
+--------The 5-th outer loop ends--------
+Running_time= 4.642690
+Model3----Dataset12------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=23,obj2=694
+snp_number=1000,sample_number=4000,obj1=23,obj2=694
+snp_number=1000,sample_number=4000,obj1=23,obj2=694
+snp_number=1000,sample_number=4000,obj1=23,obj2=694
+snp_number=1000,sample_number=4000,obj1=23,obj2=694
+N747,N23,f1=2764.32,f2=-0.352012,isDominant=1
+N23,N747,f1=2764.32,f2=-0.352012,isDominant=1
+N23,N946,f1=2761.21,f2=-0.351862,isDominant=1
+--------The 0-th outer loop ends--------
+N747,N23,f1=2764.32,f2=-0.352012,isDominant=1
+N23,N747,f1=2764.32,f2=-0.352012,isDominant=1
+N747,N23,f1=2764.32,f2=-0.352012,isDominant=1
+N23,N747,f1=2764.32,f2=-0.352012,isDominant=1
+N23,N946,f1=2761.21,f2=-0.351862,isDominant=1
+--------The 1-th outer loop ends--------
+N694,N23,f1=2737.85,f2=-0.354653,isDominant=1
+--------The 2-th outer loop ends--------
+N694,N23,f1=2737.85,f2=-0.354653,isDominant=1
+N694,N23,f1=2737.85,f2=-0.354653,isDominant=1
+--------The 3-th outer loop ends--------
+N694,N23,f1=2737.85,f2=-0.354653,isDominant=1
+N694,N23,f1=2737.85,f2=-0.354653,isDominant=1
+N694,N23,f1=2737.85,f2=-0.354653,isDominant=1
+--------The 4-th outer loop ends--------
+N694,N23,2737.85,-0.354653,1
+N694,N23,2737.85,-0.354653,1
+N694,N23,2737.85,-0.354653,1
+---------------------------------Right_Dataset_Num=12
+--------The 5-th outer loop ends--------
+Running_time= 4.648400
+Model3----Dataset13------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=350,obj2=131
+snp_number=1000,sample_number=4000,obj1=350,obj2=131
+snp_number=1000,sample_number=4000,obj1=350,obj2=131
+snp_number=1000,sample_number=4000,obj1=350,obj2=131
+snp_number=1000,sample_number=4000,obj1=350,obj2=131
+N350,N131,f1=2746.5,f2=-0.353382,isDominant=1
+--------The 0-th outer loop ends--------
+N350,N131,f1=2746.5,f2=-0.353382,isDominant=1
+--------The 1-th outer loop ends--------
+N350,N131,f1=2746.5,f2=-0.353382,isDominant=1
+--------The 2-th outer loop ends--------
+N350,N131,f1=2746.5,f2=-0.353382,isDominant=1
+N350,N131,f1=2746.5,f2=-0.353382,isDominant=1
+--------The 3-th outer loop ends--------
+N350,N131,f1=2746.5,f2=-0.353382,isDominant=1
+N350,N131,f1=2746.5,f2=-0.353382,isDominant=1
+--------The 4-th outer loop ends--------
+N350,N131,2746.5,-0.353382,1
+N350,N131,2746.5,-0.353382,1
+---------------------------------Right_Dataset_Num=13
+--------The 5-th outer loop ends--------
+Running_time= 4.653346
+Model3----Dataset14------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=401,obj2=163
+snp_number=1000,sample_number=4000,obj1=401,obj2=163
+snp_number=1000,sample_number=4000,obj1=401,obj2=163
+snp_number=1000,sample_number=4000,obj1=401,obj2=163
+snp_number=1000,sample_number=4000,obj1=401,obj2=163
+N163,N434,f1=2764.04,f2=-0.351466,isDominant=1
+N434,N163,f1=2764.04,f2=-0.351466,isDominant=1
+N867,N163,f1=2763.4,f2=-0.350411,isDominant=1
+N163,N6,f1=2765.01,f2=-0.351607,isDominant=1
+N163,N867,f1=2763.4,f2=-0.350411,isDominant=1
+--------The 0-th outer loop ends--------
+N401,N163,f1=2728.16,f2=-0.355962,isDominant=1
+--------The 1-th outer loop ends--------
+N401,N163,f1=2728.16,f2=-0.355962,isDominant=1
+N163,N401,f1=2728.16,f2=-0.355962,isDominant=1
+--------The 2-th outer loop ends--------
+N401,N163,f1=2728.16,f2=-0.355962,isDominant=1
+N163,N401,f1=2728.16,f2=-0.355962,isDominant=1
+--------The 3-th outer loop ends--------
+N401,N163,f1=2728.16,f2=-0.355962,isDominant=1
+N163,N401,f1=2728.16,f2=-0.355962,isDominant=1
+--------The 4-th outer loop ends--------
+N401,N163,2728.16,-0.355962,1
+N163,N401,2728.16,-0.355962,1
+N401,N163,2728.16,-0.355962,1
+N163,N401,2728.16,-0.355962,1
+---------------------------------Right_Dataset_Num=14
+--------The 5-th outer loop ends--------
+Running_time= 4.651193
+Model3----Dataset15------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=337,obj2=706
+snp_number=1000,sample_number=4000,obj1=337,obj2=706
+snp_number=1000,sample_number=4000,obj1=337,obj2=706
+snp_number=1000,sample_number=4000,obj1=337,obj2=706
+snp_number=1000,sample_number=4000,obj1=337,obj2=706
+--------The 0-th outer loop ends--------
+N405,N337,f1=2734.63,f2=-0.354945,isDominant=1
+--------The 1-th outer loop ends--------
+N405,N337,f1=2734.63,f2=-0.354945,isDominant=1
+--------The 2-th outer loop ends--------
+N405,N337,f1=2734.63,f2=-0.354945,isDominant=1
+N337,N405,f1=2734.63,f2=-0.354945,isDominant=1
+--------The 3-th outer loop ends--------
+N405,N337,f1=2734.63,f2=-0.354945,isDominant=1
+N337,N405,f1=2734.63,f2=-0.354945,isDominant=1
+--------The 4-th outer loop ends--------
+N405,N337,f1=2734.63,f2=-0.354945,isDominant=1
+N337,N405,f1=2734.63,f2=-0.354945,isDominant=1
+N405,N337,2734.63,-0.354945,1
+N337,N405,2734.63,-0.354945,1
+---------------------------------Right_Dataset_Num=15
+--------The 5-th outer loop ends--------
+Running_time= 4.654019
+Model3----Dataset16------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=192,obj2=49
+snp_number=1000,sample_number=4000,obj1=192,obj2=49
+snp_number=1000,sample_number=4000,obj1=192,obj2=49
+snp_number=1000,sample_number=4000,obj1=192,obj2=49
+snp_number=1000,sample_number=4000,obj1=192,obj2=49
+N49,N192,f1=2743.79,f2=-0.353733,isDominant=1
+N192,N49,f1=2743.79,f2=-0.353733,isDominant=1
+--------The 0-th outer loop ends--------
+N49,N192,f1=2743.79,f2=-0.353733,isDominant=1
+N192,N49,f1=2743.79,f2=-0.353733,isDominant=1
+--------The 1-th outer loop ends--------
+N49,N192,f1=2743.79,f2=-0.353733,isDominant=1
+N192,N49,f1=2743.79,f2=-0.353733,isDominant=1
+--------The 2-th outer loop ends--------
+N49,N192,f1=2743.79,f2=-0.353733,isDominant=1
+N192,N49,f1=2743.79,f2=-0.353733,isDominant=1
+--------The 3-th outer loop ends--------
+N49,N192,f1=2743.79,f2=-0.353733,isDominant=1
+N192,N49,f1=2743.79,f2=-0.353733,isDominant=1
+--------The 4-th outer loop ends--------
+N49,N192,2743.79,-0.353733,1
+N192,N49,2743.79,-0.353733,1
+---------------------------------Right_Dataset_Num=16
+--------The 5-th outer loop ends--------
+Running_time= 4.644970
+Model3----Dataset17------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=464,obj2=297
+snp_number=1000,sample_number=4000,obj1=464,obj2=297
+snp_number=1000,sample_number=4000,obj1=464,obj2=297
+snp_number=1000,sample_number=4000,obj1=464,obj2=297
+snp_number=1000,sample_number=4000,obj1=464,obj2=297
+--------The 0-th outer loop ends--------
+N464,N297,f1=2743.73,f2=-0.353732,isDominant=1
+N297,N464,f1=2743.73,f2=-0.353732,isDominant=1
+--------The 1-th outer loop ends--------
+N464,N297,f1=2743.73,f2=-0.353732,isDominant=1
+N297,N464,f1=2743.73,f2=-0.353732,isDominant=1
+--------The 2-th outer loop ends--------
+N464,N297,f1=2743.73,f2=-0.353732,isDominant=1
+N297,N464,f1=2743.73,f2=-0.353732,isDominant=1
+N464,N297,f1=2743.73,f2=-0.353732,isDominant=1
+N297,N464,f1=2743.73,f2=-0.353732,isDominant=1
+--------The 3-th outer loop ends--------
+N464,N297,f1=2743.73,f2=-0.353732,isDominant=1
+N297,N464,f1=2743.73,f2=-0.353732,isDominant=1
+--------The 4-th outer loop ends--------
+N297,N464,2743.73,-0.353732,1
+N464,N297,2743.73,-0.353732,1
+N464,N297,2743.73,-0.353732,1
+N297,N464,2743.73,-0.353732,1
+---------------------------------Right_Dataset_Num=17
+--------The 5-th outer loop ends--------
+Running_time= 4.640842
+Model3----Dataset18------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=85,obj2=436
+snp_number=1000,sample_number=4000,obj1=85,obj2=436
+snp_number=1000,sample_number=4000,obj1=85,obj2=436
+snp_number=1000,sample_number=4000,obj1=85,obj2=436
+snp_number=1000,sample_number=4000,obj1=85,obj2=436
+N436,N498,f1=2761.33,f2=-0.352166,isDominant=1
+--------The 0-th outer loop ends--------
+N436,N85,f1=2736.6,f2=-0.355155,isDominant=1
+--------The 1-th outer loop ends--------
+N85,N436,f1=2736.6,f2=-0.355155,isDominant=1
+N436,N85,f1=2736.6,f2=-0.355155,isDominant=1
+N436,N85,f1=2736.6,f2=-0.355155,isDominant=1
+N85,N436,f1=2736.6,f2=-0.355155,isDominant=1
+--------The 2-th outer loop ends--------
+N85,N436,f1=2736.6,f2=-0.355155,isDominant=1
+N436,N85,f1=2736.6,f2=-0.355155,isDominant=1
+N436,N85,f1=2736.6,f2=-0.355155,isDominant=1
+N85,N436,f1=2736.6,f2=-0.355155,isDominant=1
+--------The 3-th outer loop ends--------
+N85,N436,f1=2736.6,f2=-0.355155,isDominant=1
+N436,N85,f1=2736.6,f2=-0.355155,isDominant=1
+N436,N85,f1=2736.6,f2=-0.355155,isDominant=1
+N85,N436,f1=2736.6,f2=-0.355155,isDominant=1
+--------The 4-th outer loop ends--------
+N85,N436,2736.6,-0.355155,1
+N436,N85,2736.6,-0.355155,1
+N85,N436,2736.6,-0.355155,1
+N436,N85,2736.6,-0.355155,1
+N436,N85,2736.6,-0.355155,1
+N85,N436,2736.6,-0.355155,1
+---------------------------------Right_Dataset_Num=18
+--------The 5-th outer loop ends--------
+Running_time= 4.645176
+Model3----Dataset19------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=445,obj2=93
+snp_number=1000,sample_number=4000,obj1=445,obj2=93
+snp_number=1000,sample_number=4000,obj1=445,obj2=93
+snp_number=1000,sample_number=4000,obj1=445,obj2=93
+snp_number=1000,sample_number=4000,obj1=445,obj2=93
+N445,N176,f1=2768.55,f2=-0.349958,isDominant=1
+N445,N878,f1=2772.72,f2=-0.350219,isDominant=1
+N588,N445,f1=2768.13,f2=-0.34964,isDominant=1
+--------The 0-th outer loop ends--------
+N445,N176,f1=2768.55,f2=-0.349958,isDominant=1
+N445,N878,f1=2772.72,f2=-0.350219,isDominant=1
+N588,N445,f1=2768.13,f2=-0.34964,isDominant=1
+N445,N588,f1=2768.13,f2=-0.34964,isDominant=1
+N445,N580,f1=2772.46,f2=-0.350141,isDominant=1
+N580,N445,f1=2772.46,f2=-0.350141,isDominant=1
+--------The 1-th outer loop ends--------
+N93,N445,f1=2748.06,f2=-0.353224,isDominant=1
+--------The 2-th outer loop ends--------
+N93,N445,f1=2748.06,f2=-0.353224,isDominant=1
+--------The 3-th outer loop ends--------
+N93,N445,f1=2748.06,f2=-0.353224,isDominant=1
+--------The 4-th outer loop ends--------
+N93,N445,2748.06,-0.353224,1
+---------------------------------Right_Dataset_Num=19
+--------The 5-th outer loop ends--------
+Running_time= 4.647056
+Model3----Dataset20------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=89,obj2=391
+snp_number=1000,sample_number=4000,obj1=89,obj2=391
+snp_number=1000,sample_number=4000,obj1=89,obj2=391
+snp_number=1000,sample_number=4000,obj1=89,obj2=391
+snp_number=1000,sample_number=4000,obj1=89,obj2=391
+N60,N391,f1=2772.27,f2=-0.350322,isDominant=1
+N391,N243,f1=2771.64,f2=-0.34979,isDominant=1
+N391,N60,f1=2772.27,f2=-0.350322,isDominant=1
+N391,N60,f1=2772.27,f2=-0.350322,isDominant=1
+N60,N391,f1=2772.27,f2=-0.350322,isDominant=1
+N391,N60,f1=2772.27,f2=-0.350322,isDominant=1
+--------The 0-th outer loop ends--------
+N391,N89,f1=2732.88,f2=-0.355501,isDominant=1
+--------The 1-th outer loop ends--------
+N391,N89,f1=2732.88,f2=-0.355501,isDominant=1
+--------The 2-th outer loop ends--------
+N391,N89,f1=2732.88,f2=-0.355501,isDominant=1
+--------The 3-th outer loop ends--------
+N391,N89,f1=2732.88,f2=-0.355501,isDominant=1
+--------The 4-th outer loop ends--------
+N391,N89,2732.88,-0.355501,1
+N391,N89,2732.88,-0.355501,1
+---------------------------------Right_Dataset_Num=20
+--------The 5-th outer loop ends--------
+Running_time= 4.644593
+Model3----Dataset21------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=302,obj2=813
+snp_number=1000,sample_number=4000,obj1=302,obj2=813
+snp_number=1000,sample_number=4000,obj1=302,obj2=813
+snp_number=1000,sample_number=4000,obj1=302,obj2=813
+snp_number=1000,sample_number=4000,obj1=302,obj2=813
+N963,N302,f1=2770.93,f2=-0.350479,isDominant=1
+N787,N302,f1=2768.94,f2=-0.350261,isDominant=1
+N900,N302,f1=2768.79,f2=-0.349621,isDominant=1
+N302,N963,f1=2770.93,f2=-0.350479,isDominant=1
+N302,N787,f1=2768.94,f2=-0.350261,isDominant=1
+N302,N900,f1=2768.79,f2=-0.349621,isDominant=1
+N302,N963,f1=2770.93,f2=-0.350479,isDominant=1
+N302,N900,f1=2768.79,f2=-0.349621,isDominant=1
+N900,N302,f1=2768.79,f2=-0.349621,isDominant=1
+--------The 0-th outer loop ends--------
+N813,N302,f1=2736.7,f2=-0.354913,isDominant=1
+N302,N813,f1=2736.7,f2=-0.354913,isDominant=1
+N302,N813,f1=2736.7,f2=-0.354913,isDominant=1
+--------The 1-th outer loop ends--------
+N813,N302,f1=2736.7,f2=-0.354913,isDominant=1
+N302,N813,f1=2736.7,f2=-0.354913,isDominant=1
+N302,N813,f1=2736.7,f2=-0.354913,isDominant=1
+--------The 2-th outer loop ends--------
+N813,N302,f1=2736.7,f2=-0.354913,isDominant=1
+N302,N813,f1=2736.7,f2=-0.354913,isDominant=1
+N302,N813,f1=2736.7,f2=-0.354913,isDominant=1
+--------The 3-th outer loop ends--------
+N813,N302,f1=2736.7,f2=-0.354913,isDominant=1
+N302,N813,f1=2736.7,f2=-0.354913,isDominant=1
+N302,N813,f1=2736.7,f2=-0.354913,isDominant=1
+--------The 4-th outer loop ends--------
+N302,N813,2736.7,-0.354913,1
+N813,N302,2736.7,-0.354913,1
+N813,N302,2736.7,-0.354913,1
+N302,N813,2736.7,-0.354913,1
+N302,N813,2736.7,-0.354913,1
+---------------------------------Right_Dataset_Num=21
+--------The 5-th outer loop ends--------
+Running_time= 4.647985
+Model3----Dataset22------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=787,obj2=935
+snp_number=1000,sample_number=4000,obj1=787,obj2=935
+snp_number=1000,sample_number=4000,obj1=787,obj2=935
+snp_number=1000,sample_number=4000,obj1=787,obj2=935
+snp_number=1000,sample_number=4000,obj1=787,obj2=935
+--------The 0-th outer loop ends--------
+N787,N935,f1=2749.38,f2=-0.352843,isDominant=1
+--------The 1-th outer loop ends--------
+N787,N935,f1=2749.38,f2=-0.352843,isDominant=1
+--------The 2-th outer loop ends--------
+N787,N935,f1=2749.38,f2=-0.352843,isDominant=1
+N935,N787,f1=2749.38,f2=-0.352843,isDominant=1
+N787,N935,f1=2749.38,f2=-0.352843,isDominant=1
+N935,N787,f1=2749.38,f2=-0.352843,isDominant=1
+--------The 3-th outer loop ends--------
+N787,N935,f1=2749.38,f2=-0.352843,isDominant=1
+N935,N787,f1=2749.38,f2=-0.352843,isDominant=1
+--------The 4-th outer loop ends--------
+N787,N935,2749.38,-0.352843,1
+N935,N787,2749.38,-0.352843,1
+---------------------------------Right_Dataset_Num=22
+--------The 5-th outer loop ends--------
+Running_time= 4.646590
+Model3----Dataset23------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=952,obj2=851
+snp_number=1000,sample_number=4000,obj1=952,obj2=851
+snp_number=1000,sample_number=4000,obj1=952,obj2=851
+snp_number=1000,sample_number=4000,obj1=952,obj2=851
+snp_number=1000,sample_number=4000,obj1=952,obj2=851
+N38,N952,f1=2733.97,f2=-0.355055,isDominant=1
+N952,N38,f1=2733.97,f2=-0.355055,isDominant=1
+--------The 0-th outer loop ends--------
+N38,N952,f1=2733.97,f2=-0.355055,isDominant=1
+N952,N38,f1=2733.97,f2=-0.355055,isDominant=1
+--------The 1-th outer loop ends--------
+N38,N952,f1=2733.97,f2=-0.355055,isDominant=1
+N952,N38,f1=2733.97,f2=-0.355055,isDominant=1
+--------The 2-th outer loop ends--------
+N38,N952,f1=2733.97,f2=-0.355055,isDominant=1
+N952,N38,f1=2733.97,f2=-0.355055,isDominant=1
+--------The 3-th outer loop ends--------
+N38,N952,f1=2733.97,f2=-0.355055,isDominant=1
+N952,N38,f1=2733.97,f2=-0.355055,isDominant=1
+--------The 4-th outer loop ends--------
+N38,N952,2733.97,-0.355055,1
+N952,N38,2733.97,-0.355055,1
+---------------------------------Right_Dataset_Num=23
+--------The 5-th outer loop ends--------
+Running_time= 4.646224
+Model3----Dataset24------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=902,obj2=346
+snp_number=1000,sample_number=4000,obj1=902,obj2=346
+snp_number=1000,sample_number=4000,obj1=902,obj2=346
+snp_number=1000,sample_number=4000,obj1=902,obj2=346
+snp_number=1000,sample_number=4000,obj1=902,obj2=346
+N307,N902,f1=2759.16,f2=-0.351642,isDominant=1
+N902,N307,f1=2759.16,f2=-0.351642,isDominant=1
+N902,N209,f1=2761.9,f2=-0.3519,isDominant=1
+--------The 0-th outer loop ends--------
+N902,N346,f1=2739.03,f2=-0.354253,isDominant=1
+--------The 1-th outer loop ends--------
+N902,N346,f1=2739.03,f2=-0.354253,isDominant=1
+N346,N902,f1=2739.03,f2=-0.354253,isDominant=1
+--------The 2-th outer loop ends--------
+N902,N346,f1=2739.03,f2=-0.354253,isDominant=1
+N346,N902,f1=2739.03,f2=-0.354253,isDominant=1
+--------The 3-th outer loop ends--------
+N902,N346,f1=2739.03,f2=-0.354253,isDominant=1
+N346,N902,f1=2739.03,f2=-0.354253,isDominant=1
+--------The 4-th outer loop ends--------
+N902,N346,2739.03,-0.354253,1
+N346,N902,2739.03,-0.354253,1
+N902,N346,2739.03,-0.354253,1
+N346,N902,2739.03,-0.354253,1
+---------------------------------Right_Dataset_Num=24
+--------The 5-th outer loop ends--------
+Running_time= 4.643251
+Model3----Dataset25------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=76,obj2=565
+snp_number=1000,sample_number=4000,obj1=76,obj2=565
+snp_number=1000,sample_number=4000,obj1=76,obj2=565
+snp_number=1000,sample_number=4000,obj1=76,obj2=565
+snp_number=1000,sample_number=4000,obj1=76,obj2=565
+N565,N76,f1=2728.82,f2=-0.355365,isDominant=1
+--------The 0-th outer loop ends--------
+N565,N76,f1=2728.82,f2=-0.355365,isDominant=1
+--------The 1-th outer loop ends--------
+N76,N565,f1=2728.82,f2=-0.355365,isDominant=1
+N565,N76,f1=2728.82,f2=-0.355365,isDominant=1
+N565,N76,f1=2728.82,f2=-0.355365,isDominant=1
+--------The 2-th outer loop ends--------
+N76,N565,f1=2728.82,f2=-0.355365,isDominant=1
+N565,N76,f1=2728.82,f2=-0.355365,isDominant=1
+N565,N76,f1=2728.82,f2=-0.355365,isDominant=1
+--------The 3-th outer loop ends--------
+N76,N565,f1=2728.82,f2=-0.355365,isDominant=1
+N565,N76,f1=2728.82,f2=-0.355365,isDominant=1
+N565,N76,f1=2728.82,f2=-0.355365,isDominant=1
+--------The 4-th outer loop ends--------
+N76,N565,2728.82,-0.355365,1
+N565,N76,2728.82,-0.355365,1
+N565,N76,2728.82,-0.355365,1
+---------------------------------Right_Dataset_Num=25
+--------The 5-th outer loop ends--------
+Running_time= 4.646013
+Model3----Dataset26------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=44,obj2=471
+snp_number=1000,sample_number=4000,obj1=44,obj2=471
+snp_number=1000,sample_number=4000,obj1=44,obj2=471
+snp_number=1000,sample_number=4000,obj1=44,obj2=471
+snp_number=1000,sample_number=4000,obj1=44,obj2=471
+--------The 0-th outer loop ends--------
+N44,N471,f1=2744.66,f2=-0.353703,isDominant=1
+--------The 1-th outer loop ends--------
+N44,N471,f1=2744.66,f2=-0.353703,isDominant=1
+--------The 2-th outer loop ends--------
+N44,N471,f1=2744.66,f2=-0.353703,isDominant=1
+N471,N44,f1=2744.66,f2=-0.353703,isDominant=1
+N44,N471,f1=2744.66,f2=-0.353703,isDominant=1
+N471,N44,f1=2744.66,f2=-0.353703,isDominant=1
+--------The 3-th outer loop ends--------
+N44,N471,f1=2744.66,f2=-0.353703,isDominant=1
+N471,N44,f1=2744.66,f2=-0.353703,isDominant=1
+--------The 4-th outer loop ends--------
+N471,N44,2744.66,-0.353703,1
+N44,N471,2744.66,-0.353703,1
+N44,N471,2744.66,-0.353703,1
+N471,N44,2744.66,-0.353703,1
+---------------------------------Right_Dataset_Num=26
+--------The 5-th outer loop ends--------
+Running_time= 4.642988
+Model3----Dataset27------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=204,obj2=834
+snp_number=1000,sample_number=4000,obj1=204,obj2=834
+snp_number=1000,sample_number=4000,obj1=204,obj2=834
+snp_number=1000,sample_number=4000,obj1=204,obj2=834
+snp_number=1000,sample_number=4000,obj1=204,obj2=834
+N834,N204,f1=2745.03,f2=-0.353631,isDominant=1
+--------The 0-th outer loop ends--------
+N834,N204,f1=2745.03,f2=-0.353631,isDominant=1
+N204,N834,f1=2745.03,f2=-0.353631,isDominant=1
+--------The 1-th outer loop ends--------
+N834,N204,f1=2745.03,f2=-0.353631,isDominant=1
+N204,N834,f1=2745.03,f2=-0.353631,isDominant=1
+--------The 2-th outer loop ends--------
+N834,N204,f1=2745.03,f2=-0.353631,isDominant=1
+N204,N834,f1=2745.03,f2=-0.353631,isDominant=1
+--------The 3-th outer loop ends--------
+N834,N204,f1=2745.03,f2=-0.353631,isDominant=1
+N204,N834,f1=2745.03,f2=-0.353631,isDominant=1
+N834,N204,f1=2745.03,f2=-0.353631,isDominant=1
+N204,N834,f1=2745.03,f2=-0.353631,isDominant=1
+--------The 4-th outer loop ends--------
+N834,N204,2745.03,-0.353631,1
+N204,N834,2745.03,-0.353631,1
+N834,N204,2745.03,-0.353631,1
+N204,N834,2745.03,-0.353631,1
+---------------------------------Right_Dataset_Num=27
+--------The 5-th outer loop ends--------
+Running_time= 4.645922
+Model3----Dataset28------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=958,obj2=445
+snp_number=1000,sample_number=4000,obj1=958,obj2=445
+snp_number=1000,sample_number=4000,obj1=958,obj2=445
+snp_number=1000,sample_number=4000,obj1=958,obj2=445
+snp_number=1000,sample_number=4000,obj1=958,obj2=445
+N93,N958,f1=2736.96,f2=-0.354944,isDominant=1
+--------The 0-th outer loop ends--------
+N93,N958,f1=2736.96,f2=-0.354944,isDominant=1
+N958,N93,f1=2736.96,f2=-0.354944,isDominant=1
+--------The 1-th outer loop ends--------
+N93,N958,f1=2736.96,f2=-0.354944,isDominant=1
+N958,N93,f1=2736.96,f2=-0.354944,isDominant=1
+N93,N958,f1=2736.96,f2=-0.354944,isDominant=1
+N958,N93,f1=2736.96,f2=-0.354944,isDominant=1
+--------The 2-th outer loop ends--------
+N93,N958,f1=2736.96,f2=-0.354944,isDominant=1
+N958,N93,f1=2736.96,f2=-0.354944,isDominant=1
+N93,N958,f1=2736.96,f2=-0.354944,isDominant=1
+N958,N93,f1=2736.96,f2=-0.354944,isDominant=1
+--------The 3-th outer loop ends--------
+N93,N958,f1=2736.96,f2=-0.354944,isDominant=1
+N958,N93,f1=2736.96,f2=-0.354944,isDominant=1
+N93,N958,f1=2736.96,f2=-0.354944,isDominant=1
+N958,N93,f1=2736.96,f2=-0.354944,isDominant=1
+--------The 4-th outer loop ends--------
+N93,N958,2736.96,-0.354944,1
+N958,N93,2736.96,-0.354944,1
+N93,N958,2736.96,-0.354944,1
+N958,N93,2736.96,-0.354944,1
+---------------------------------Right_Dataset_Num=28
+--------The 5-th outer loop ends--------
+Running_time= 4.648582
+Model3----Dataset29------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=840,obj2=744
+snp_number=1000,sample_number=4000,obj1=840,obj2=744
+snp_number=1000,sample_number=4000,obj1=840,obj2=744
+snp_number=1000,sample_number=4000,obj1=840,obj2=744
+snp_number=1000,sample_number=4000,obj1=840,obj2=744
+--------The 0-th outer loop ends--------
+N658,N840,f1=2762.26,f2=-0.352378,isDominant=1
+N658,N840,f1=2762.26,f2=-0.352378,isDominant=1
+N658,N840,f1=2762.26,f2=-0.352378,isDominant=1
+N658,N840,f1=2762.26,f2=-0.352378,isDominant=1
+N840,N71,f1=2760.86,f2=-0.351903,isDominant=1
+--------The 1-th outer loop ends--------
+N840,N744,f1=2722.76,f2=-0.356679,isDominant=1
+N744,N840,f1=2722.76,f2=-0.356679,isDominant=1
+--------The 2-th outer loop ends--------
+N744,N840,f1=2722.76,f2=-0.356679,isDominant=1
+N840,N744,f1=2722.76,f2=-0.356679,isDominant=1
+N840,N744,f1=2722.76,f2=-0.356679,isDominant=1
+N744,N840,f1=2722.76,f2=-0.356679,isDominant=1
+--------The 3-th outer loop ends--------
+N744,N840,f1=2722.76,f2=-0.356679,isDominant=1
+N840,N744,f1=2722.76,f2=-0.356679,isDominant=1
+N744,N840,f1=2722.76,f2=-0.356679,isDominant=1
+N840,N744,f1=2722.76,f2=-0.356679,isDominant=1
+N840,N744,f1=2722.76,f2=-0.356679,isDominant=1
+N744,N840,f1=2722.76,f2=-0.356679,isDominant=1
+--------The 4-th outer loop ends--------
+N744,N840,2722.76,-0.356679,1
+N840,N744,2722.76,-0.356679,1
+N744,N840,2722.76,-0.356679,1
+N840,N744,2722.76,-0.356679,1
+N840,N744,2722.76,-0.356679,1
+N744,N840,2722.76,-0.356679,1
+---------------------------------Right_Dataset_Num=29
+--------The 5-th outer loop ends--------
+Running_time= 4.642731
+Model3----Dataset30------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=821,obj2=981
+snp_number=1000,sample_number=4000,obj1=821,obj2=981
+snp_number=1000,sample_number=4000,obj1=821,obj2=981
+snp_number=1000,sample_number=4000,obj1=821,obj2=981
+snp_number=1000,sample_number=4000,obj1=821,obj2=981
+N981,N821,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+--------The 0-th outer loop ends--------
+N981,N821,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+--------The 1-th outer loop ends--------
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+N981,N821,f1=2738.91,f2=-0.354342,isDominant=1
+N981,N821,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+--------The 2-th outer loop ends--------
+N981,N821,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+N981,N821,f1=2738.91,f2=-0.354342,isDominant=1
+N981,N821,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+--------The 3-th outer loop ends--------
+N981,N821,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+N981,N821,f1=2738.91,f2=-0.354342,isDominant=1
+N981,N821,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+N821,N981,f1=2738.91,f2=-0.354342,isDominant=1
+--------The 4-th outer loop ends--------
+N981,N821,2738.91,-0.354342,1
+N821,N981,2738.91,-0.354342,1
+N821,N981,2738.91,-0.354342,1
+N981,N821,2738.91,-0.354342,1
+N981,N821,2738.91,-0.354342,1
+N821,N981,2738.91,-0.354342,1
+N821,N981,2738.91,-0.354342,1
+---------------------------------Right_Dataset_Num=30
+--------The 5-th outer loop ends--------
+Running_time= 4.643550
+Model3----Dataset31------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=274,obj2=749
+snp_number=1000,sample_number=4000,obj1=274,obj2=749
+snp_number=1000,sample_number=4000,obj1=274,obj2=749
+snp_number=1000,sample_number=4000,obj1=274,obj2=749
+snp_number=1000,sample_number=4000,obj1=274,obj2=749
+N749,N157,f1=2766.3,f2=-0.351127,isDominant=1
+--------The 0-th outer loop ends--------
+N157,N749,f1=2766.3,f2=-0.351127,isDominant=1
+--------The 1-th outer loop ends--------
+N157,N749,f1=2766.3,f2=-0.351127,isDominant=1
+N157,N462,f1=2770.17,f2=-0.351199,isDominant=1
+--------The 2-th outer loop ends--------
+N274,N749,f1=2736.13,f2=-0.35447,isDominant=1
+--------The 3-th outer loop ends--------
+N274,N749,f1=2736.13,f2=-0.35447,isDominant=1
+--------The 4-th outer loop ends--------
+N274,N749,2736.13,-0.35447,1
+---------------------------------Right_Dataset_Num=31
+--------The 5-th outer loop ends--------
+Running_time= 4.643400
+Model3----Dataset32------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=825,obj2=767
+snp_number=1000,sample_number=4000,obj1=825,obj2=767
+snp_number=1000,sample_number=4000,obj1=825,obj2=767
+snp_number=1000,sample_number=4000,obj1=825,obj2=767
+snp_number=1000,sample_number=4000,obj1=825,obj2=767
+N825,N767,f1=2727.76,f2=-0.355796,isDominant=1
+N767,N825,f1=2727.76,f2=-0.355796,isDominant=1
+--------The 0-th outer loop ends--------
+N825,N767,f1=2727.76,f2=-0.355796,isDominant=1
+N767,N825,f1=2727.76,f2=-0.355796,isDominant=1
+N825,N767,f1=2727.76,f2=-0.355796,isDominant=1
+N767,N825,f1=2727.76,f2=-0.355796,isDominant=1
+--------The 1-th outer loop ends--------
+N825,N767,f1=2727.76,f2=-0.355796,isDominant=1
+N767,N825,f1=2727.76,f2=-0.355796,isDominant=1
+N825,N767,f1=2727.76,f2=-0.355796,isDominant=1
+N767,N825,f1=2727.76,f2=-0.355796,isDominant=1
+--------The 2-th outer loop ends--------
+N825,N767,f1=2727.76,f2=-0.355796,isDominant=1
+N767,N825,f1=2727.76,f2=-0.355796,isDominant=1
+N825,N767,f1=2727.76,f2=-0.355796,isDominant=1
+N767,N825,f1=2727.76,f2=-0.355796,isDominant=1
+--------The 3-th outer loop ends--------
+N825,N767,f1=2727.76,f2=-0.355796,isDominant=1
+N767,N825,f1=2727.76,f2=-0.355796,isDominant=1
+N825,N767,f1=2727.76,f2=-0.355796,isDominant=1
+N767,N825,f1=2727.76,f2=-0.355796,isDominant=1
+--------The 4-th outer loop ends--------
+N825,N767,2727.76,-0.355796,1
+N767,N825,2727.76,-0.355796,1
+N825,N767,2727.76,-0.355796,1
+N767,N825,2727.76,-0.355796,1
+---------------------------------Right_Dataset_Num=32
+--------The 5-th outer loop ends--------
+Running_time= 4.657248
+Model3----Dataset33------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=1,obj2=711
+snp_number=1000,sample_number=4000,obj1=1,obj2=711
+snp_number=1000,sample_number=4000,obj1=1,obj2=711
+snp_number=1000,sample_number=4000,obj1=1,obj2=711
+snp_number=1000,sample_number=4000,obj1=1,obj2=711
+--------The 0-th outer loop ends--------
+N1,N711,f1=2733.03,f2=-0.355078,isDominant=1
+N1,N711,f1=2733.03,f2=-0.355078,isDominant=1
+N711,N1,f1=2733.03,f2=-0.355078,isDominant=1
+--------The 1-th outer loop ends--------
+N1,N711,f1=2733.03,f2=-0.355078,isDominant=1
+N711,N1,f1=2733.03,f2=-0.355078,isDominant=1
+--------The 2-th outer loop ends--------
+N1,N711,f1=2733.03,f2=-0.355078,isDominant=1
+N711,N1,f1=2733.03,f2=-0.355078,isDominant=1
+--------The 3-th outer loop ends--------
+N1,N711,f1=2733.03,f2=-0.355078,isDominant=1
+N711,N1,f1=2733.03,f2=-0.355078,isDominant=1
+--------The 4-th outer loop ends--------
+N1,N711,2733.03,-0.355078,1
+N711,N1,2733.03,-0.355078,1
+---------------------------------Right_Dataset_Num=33
+--------The 5-th outer loop ends--------
+Running_time= 4.653103
+Model3----Dataset34------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=642,obj2=253
+snp_number=1000,sample_number=4000,obj1=642,obj2=253
+snp_number=1000,sample_number=4000,obj1=642,obj2=253
+snp_number=1000,sample_number=4000,obj1=642,obj2=253
+snp_number=1000,sample_number=4000,obj1=642,obj2=253
+N642,N253,f1=2739.18,f2=-0.354761,isDominant=1
+--------The 0-th outer loop ends--------
+N642,N253,f1=2739.18,f2=-0.354761,isDominant=1
+N253,N642,f1=2739.18,f2=-0.354761,isDominant=1
+--------The 1-th outer loop ends--------
+N642,N253,f1=2739.18,f2=-0.354761,isDominant=1
+N253,N642,f1=2739.18,f2=-0.354761,isDominant=1
+--------The 2-th outer loop ends--------
+N642,N253,f1=2739.18,f2=-0.354761,isDominant=1
+N253,N642,f1=2739.18,f2=-0.354761,isDominant=1
+--------The 3-th outer loop ends--------
+N642,N253,f1=2739.18,f2=-0.354761,isDominant=1
+N253,N642,f1=2739.18,f2=-0.354761,isDominant=1
+--------The 4-th outer loop ends--------
+N642,N253,2739.18,-0.354761,1
+N253,N642,2739.18,-0.354761,1
+N642,N253,2739.18,-0.354761,1
+N253,N642,2739.18,-0.354761,1
+---------------------------------Right_Dataset_Num=34
+--------The 5-th outer loop ends--------
+Running_time= 4.653640
+Model3----Dataset35------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=739,obj2=235
+snp_number=1000,sample_number=4000,obj1=739,obj2=235
+snp_number=1000,sample_number=4000,obj1=739,obj2=235
+snp_number=1000,sample_number=4000,obj1=739,obj2=235
+snp_number=1000,sample_number=4000,obj1=739,obj2=235
+N186,N739,f1=2769.91,f2=-0.349816,isDominant=1
+N159,N739,f1=2769.99,f2=-0.35035,isDominant=1
+N159,N739,f1=2769.99,f2=-0.35035,isDominant=1
+--------The 0-th outer loop ends--------
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+--------The 1-th outer loop ends--------
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+--------The 2-th outer loop ends--------
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+--------The 3-th outer loop ends--------
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+N739,N235,f1=2746.35,f2=-0.353565,isDominant=1
+--------The 4-th outer loop ends--------
+N739,N235,2746.35,-0.353565,1
+N739,N235,2746.35,-0.353565,1
+N739,N235,2746.35,-0.353565,1
+N739,N235,2746.35,-0.353565,1
+---------------------------------Right_Dataset_Num=35
+--------The 5-th outer loop ends--------
+Running_time= 4.647363
+Model3----Dataset36------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=397,obj2=908
+snp_number=1000,sample_number=4000,obj1=397,obj2=908
+snp_number=1000,sample_number=4000,obj1=397,obj2=908
+snp_number=1000,sample_number=4000,obj1=397,obj2=908
+snp_number=1000,sample_number=4000,obj1=397,obj2=908
+N908,N397,f1=2749.16,f2=-0.352981,isDominant=1
+--------The 0-th outer loop ends--------
+N397,N908,f1=2749.16,f2=-0.352981,isDominant=1
+--------The 1-th outer loop ends--------
+N397,N908,f1=2749.16,f2=-0.352981,isDominant=1
+N397,N908,f1=2749.16,f2=-0.352981,isDominant=1
+--------The 2-th outer loop ends--------
+N397,N908,f1=2749.16,f2=-0.352981,isDominant=1
+N397,N908,f1=2749.16,f2=-0.352981,isDominant=1
+--------The 3-th outer loop ends--------
+N397,N908,f1=2749.16,f2=-0.352981,isDominant=1
+N397,N908,f1=2749.16,f2=-0.352981,isDominant=1
+--------The 4-th outer loop ends--------
+N397,N908,2749.16,-0.352981,1
+N397,N908,2749.16,-0.352981,1
+---------------------------------Right_Dataset_Num=36
+--------The 5-th outer loop ends--------
+Running_time= 4.650654
+Model3----Dataset37------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=124,obj2=243
+snp_number=1000,sample_number=4000,obj1=124,obj2=243
+snp_number=1000,sample_number=4000,obj1=124,obj2=243
+snp_number=1000,sample_number=4000,obj1=124,obj2=243
+snp_number=1000,sample_number=4000,obj1=124,obj2=243
+--------The 0-th outer loop ends--------
+N124,N243,f1=2739.03,f2=-0.354211,isDominant=1
+--------The 1-th outer loop ends--------
+N124,N243,f1=2739.03,f2=-0.354211,isDominant=1
+--------The 2-th outer loop ends--------
+N124,N243,f1=2739.03,f2=-0.354211,isDominant=1
+--------The 3-th outer loop ends--------
+N124,N243,f1=2739.03,f2=-0.354211,isDominant=1
+--------The 4-th outer loop ends--------
+N124,N243,f1=2739.03,f2=-0.354211,isDominant=1
+N124,N243,f1=2739.03,f2=-0.354211,isDominant=1
+--------The 5-th outer loop ends--------
+Running_time= 4.656599
+N124,N243,2739.03,-0.354211,1
+N124,N243,2739.03,-0.354211,1
+---------------------------------Right_Dataset_Num=37
+Model3----Dataset38------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=250,obj2=837
+snp_number=1000,sample_number=4000,obj1=250,obj2=837
+snp_number=1000,sample_number=4000,obj1=250,obj2=837
+snp_number=1000,sample_number=4000,obj1=250,obj2=837
+snp_number=1000,sample_number=4000,obj1=250,obj2=837
+--------The 0-th outer loop ends--------
+N250,N837,f1=2726.84,f2=-0.354999,isDominant=1
+--------The 1-th outer loop ends--------
+N250,N837,f1=2726.84,f2=-0.354999,isDominant=1
+--------The 2-th outer loop ends--------
+N250,N837,f1=2726.84,f2=-0.354999,isDominant=1
+--------The 3-th outer loop ends--------
+N250,N837,f1=2726.84,f2=-0.354999,isDominant=1
+--------The 4-th outer loop ends--------
+N250,N837,f1=2726.84,f2=-0.354999,isDominant=1
+--------The 5-th outer loop ends--------
+Running_time= 4.651816
+N250,N837,2726.84,-0.354999,1
+---------------------------------Right_Dataset_Num=38
+Model3----Dataset39------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=903,obj2=518
+snp_number=1000,sample_number=4000,obj1=903,obj2=518
+snp_number=1000,sample_number=4000,obj1=903,obj2=518
+snp_number=1000,sample_number=4000,obj1=903,obj2=518
+snp_number=1000,sample_number=4000,obj1=903,obj2=518
+--------The 0-th outer loop ends--------
+N518,N903,f1=2743.39,f2=-0.35384,isDominant=1
+N518,N903,f1=2743.39,f2=-0.35384,isDominant=1
+N903,N518,f1=2743.39,f2=-0.35384,isDominant=1
+--------The 1-th outer loop ends--------
+N518,N903,f1=2743.39,f2=-0.35384,isDominant=1
+N903,N518,f1=2743.39,f2=-0.35384,isDominant=1
+--------The 2-th outer loop ends--------
+N518,N903,f1=2743.39,f2=-0.35384,isDominant=1
+N903,N518,f1=2743.39,f2=-0.35384,isDominant=1
+--------The 3-th outer loop ends--------
+N518,N903,f1=2743.39,f2=-0.35384,isDominant=1
+N903,N518,f1=2743.39,f2=-0.35384,isDominant=1
+--------The 4-th outer loop ends--------
+N518,N903,2743.39,-0.35384,1
+N903,N518,2743.39,-0.35384,1
+---------------------------------Right_Dataset_Num=39
+--------The 5-th outer loop ends--------
+Running_time= 4.652074
+Model3----Dataset40------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=982,obj2=726
+snp_number=1000,sample_number=4000,obj1=982,obj2=726
+snp_number=1000,sample_number=4000,obj1=982,obj2=726
+snp_number=1000,sample_number=4000,obj1=982,obj2=726
+snp_number=1000,sample_number=4000,obj1=982,obj2=726
+--------The 0-th outer loop ends--------
+N982,N726,f1=2743.78,f2=-0.353846,isDominant=1
+--------The 1-th outer loop ends--------
+N982,N726,f1=2743.78,f2=-0.353846,isDominant=1
+N982,N726,f1=2743.78,f2=-0.353846,isDominant=1
+--------The 2-th outer loop ends--------
+N982,N726,f1=2743.78,f2=-0.353846,isDominant=1
+N982,N726,f1=2743.78,f2=-0.353846,isDominant=1
+--------The 3-th outer loop ends--------
+N982,N726,f1=2743.78,f2=-0.353846,isDominant=1
+N982,N726,f1=2743.78,f2=-0.353846,isDominant=1
+--------The 4-th outer loop ends--------
+N982,N726,2743.78,-0.353846,1
+N982,N726,2743.78,-0.353846,1
+N982,N726,2743.78,-0.353846,1
+---------------------------------Right_Dataset_Num=40
+--------The 5-th outer loop ends--------
+Running_time= 4.650566
+Model3----Dataset41------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=253,obj2=202
+snp_number=1000,sample_number=4000,obj1=253,obj2=202
+snp_number=1000,sample_number=4000,obj1=253,obj2=202
+snp_number=1000,sample_number=4000,obj1=253,obj2=202
+snp_number=1000,sample_number=4000,obj1=253,obj2=202
+N202,N294,f1=2769.59,f2=-0.349969,isDominant=1
+N294,N202,f1=2769.59,f2=-0.349969,isDominant=1
+N202,N294,f1=2769.59,f2=-0.349969,isDominant=1
+N294,N202,f1=2769.59,f2=-0.349969,isDominant=1
+N202,N785,f1=2770.47,f2=-0.350684,isDominant=1
+--------The 0-th outer loop ends--------
+N202,N294,f1=2769.59,f2=-0.349969,isDominant=1
+N294,N202,f1=2769.59,f2=-0.349969,isDominant=1
+N202,N294,f1=2769.59,f2=-0.349969,isDominant=1
+N294,N202,f1=2769.59,f2=-0.349969,isDominant=1
+N202,N294,f1=2769.59,f2=-0.349969,isDominant=1
+N294,N202,f1=2769.59,f2=-0.349969,isDominant=1
+N202,N785,f1=2770.47,f2=-0.350684,isDominant=1
+N785,N202,f1=2770.47,f2=-0.350684,isDominant=1
+--------The 1-th outer loop ends--------
+N642,N202,f1=2742.69,f2=-0.353867,isDominant=1
+N202,N642,f1=2742.69,f2=-0.353867,isDominant=1
+--------The 2-th outer loop ends--------
+N202,N642,f1=2742.69,f2=-0.353867,isDominant=1
+N642,N202,f1=2742.69,f2=-0.353867,isDominant=1
+N642,N202,f1=2742.69,f2=-0.353867,isDominant=1
+N202,N642,f1=2742.69,f2=-0.353867,isDominant=1
+--------The 3-th outer loop ends--------
+N202,N642,f1=2742.69,f2=-0.353867,isDominant=1
+N642,N202,f1=2742.69,f2=-0.353867,isDominant=1
+N202,N642,f1=2742.69,f2=-0.353867,isDominant=1
+N642,N202,f1=2742.69,f2=-0.353867,isDominant=1
+N642,N202,f1=2742.69,f2=-0.353867,isDominant=1
+N202,N642,f1=2742.69,f2=-0.353867,isDominant=1
+--------The 4-th outer loop ends--------
+N202,N642,2742.69,-0.353867,1
+N642,N202,2742.69,-0.353867,1
+N202,N642,2742.69,-0.353867,1
+N642,N202,2742.69,-0.353867,1
+N642,N202,2742.69,-0.353867,1
+N202,N642,2742.69,-0.353867,1
+---------------------------------Right_Dataset_Num=41
+--------The 5-th outer loop ends--------
+Running_time= 4.645424
+Model3----Dataset42------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=868,obj2=171
+snp_number=1000,sample_number=4000,obj1=868,obj2=171
+snp_number=1000,sample_number=4000,obj1=868,obj2=171
+snp_number=1000,sample_number=4000,obj1=868,obj2=171
+snp_number=1000,sample_number=4000,obj1=868,obj2=171
+N868,N246,f1=2765.8,f2=-0.351373,isDominant=1
+N868,N41,f1=2765.72,f2=-0.351031,isDominant=1
+N868,N41,f1=2765.72,f2=-0.351031,isDominant=1
+--------The 0-th outer loop ends--------
+N868,N171,f1=2733.21,f2=-0.35533,isDominant=1
+--------The 1-th outer loop ends--------
+N868,N171,f1=2733.21,f2=-0.35533,isDominant=1
+--------The 2-th outer loop ends--------
+N868,N171,f1=2733.21,f2=-0.35533,isDominant=1
+N171,N868,f1=2733.21,f2=-0.35533,isDominant=1
+--------The 3-th outer loop ends--------
+N868,N171,f1=2733.21,f2=-0.35533,isDominant=1
+N171,N868,f1=2733.21,f2=-0.35533,isDominant=1
+--------The 4-th outer loop ends--------
+N868,N171,2733.21,-0.35533,1
+N171,N868,2733.21,-0.35533,1
+N868,N171,2733.21,-0.35533,1
+N171,N868,2733.21,-0.35533,1
+---------------------------------Right_Dataset_Num=42
+--------The 5-th outer loop ends--------
+Running_time= 4.644822
+Model3----Dataset43------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=358,obj2=136
+snp_number=1000,sample_number=4000,obj1=358,obj2=136
+snp_number=1000,sample_number=4000,obj1=358,obj2=136
+snp_number=1000,sample_number=4000,obj1=358,obj2=136
+snp_number=1000,sample_number=4000,obj1=358,obj2=136
+--------The 0-th outer loop ends--------
+N944,N136,f1=2769.73,f2=-0.350742,isDominant=1
+N358,N136,f1=2749.27,f2=-0.353046,isDominant=1
+--------The 1-th outer loop ends--------
+N358,N136,f1=2749.27,f2=-0.353046,isDominant=1
+--------The 2-th outer loop ends--------
+N358,N136,f1=2749.27,f2=-0.353046,isDominant=1
+--------The 3-th outer loop ends--------
+N358,N136,f1=2749.27,f2=-0.353046,isDominant=1
+--------The 4-th outer loop ends--------
+N358,N136,2749.27,-0.353046,1
+---------------------------------Right_Dataset_Num=43
+--------The 5-th outer loop ends--------
+Running_time= 4.642622
+Model3----Dataset44------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=754,obj2=1
+snp_number=1000,sample_number=4000,obj1=754,obj2=1
+snp_number=1000,sample_number=4000,obj1=754,obj2=1
+snp_number=1000,sample_number=4000,obj1=754,obj2=1
+snp_number=1000,sample_number=4000,obj1=754,obj2=1
+N154,N754,f1=2769.97,f2=-0.350388,isDominant=1
+N754,N33,f1=2770.45,f2=-0.35054,isDominant=1
+N33,N754,f1=2770.45,f2=-0.35054,isDominant=1
+N754,N154,f1=2769.97,f2=-0.350388,isDominant=1
+N754,N97,f1=2767.38,f2=-0.350313,isDominant=1
+N97,N754,f1=2767.38,f2=-0.350313,isDominant=1
+--------The 0-th outer loop ends--------
+N711,N754,f1=2740.58,f2=-0.353669,isDominant=1
+--------The 1-th outer loop ends--------
+N711,N754,f1=2740.58,f2=-0.353669,isDominant=1
+--------The 2-th outer loop ends--------
+N711,N754,f1=2740.58,f2=-0.353669,isDominant=1
+--------The 3-th outer loop ends--------
+N711,N754,f1=2740.58,f2=-0.353669,isDominant=1
+--------The 4-th outer loop ends--------
+N711,N754,2740.58,-0.353669,1
+---------------------------------Right_Dataset_Num=44
+--------The 5-th outer loop ends--------
+Running_time= 4.656620
+Model3----Dataset45------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=315,obj2=481
+snp_number=1000,sample_number=4000,obj1=315,obj2=481
+snp_number=1000,sample_number=4000,obj1=315,obj2=481
+snp_number=1000,sample_number=4000,obj1=315,obj2=481
+snp_number=1000,sample_number=4000,obj1=315,obj2=481
+N315,N481,f1=2737,f2=-0.355038,isDominant=1
+N481,N315,f1=2737,f2=-0.355038,isDominant=1
+--------The 0-th outer loop ends--------
+N315,N481,f1=2737,f2=-0.355038,isDominant=1
+N481,N315,f1=2737,f2=-0.355038,isDominant=1
+--------The 1-th outer loop ends--------
+N315,N481,f1=2737,f2=-0.355038,isDominant=1
+N481,N315,f1=2737,f2=-0.355038,isDominant=1
+--------The 2-th outer loop ends--------
+N315,N481,f1=2737,f2=-0.355038,isDominant=1
+N481,N315,f1=2737,f2=-0.355038,isDominant=1
+N315,N481,f1=2737,f2=-0.355038,isDominant=1
+N481,N315,f1=2737,f2=-0.355038,isDominant=1
+--------The 3-th outer loop ends--------
+N315,N481,f1=2737,f2=-0.355038,isDominant=1
+N481,N315,f1=2737,f2=-0.355038,isDominant=1
+N315,N481,f1=2737,f2=-0.355038,isDominant=1
+N481,N315,f1=2737,f2=-0.355038,isDominant=1
+--------The 4-th outer loop ends--------
+N315,N481,2737,-0.355038,1
+N481,N315,2737,-0.355038,1
+N315,N481,2737,-0.355038,1
+N481,N315,2737,-0.355038,1
+N315,N481,2737,-0.355038,1
+N481,N315,2737,-0.355038,1
+---------------------------------Right_Dataset_Num=45
+--------The 5-th outer loop ends--------
+Running_time= 4.650104
+Model3----Dataset46------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=633,obj2=368
+snp_number=1000,sample_number=4000,obj1=633,obj2=368
+snp_number=1000,sample_number=4000,obj1=633,obj2=368
+snp_number=1000,sample_number=4000,obj1=633,obj2=368
+snp_number=1000,sample_number=4000,obj1=633,obj2=368
+N633,N368,f1=2732.72,f2=-0.355263,isDominant=1
+--------The 0-th outer loop ends--------
+N633,N368,f1=2732.72,f2=-0.355263,isDominant=1
+--------The 1-th outer loop ends--------
+N633,N368,f1=2732.72,f2=-0.355263,isDominant=1
+N368,N633,f1=2732.72,f2=-0.355263,isDominant=1
+--------The 2-th outer loop ends--------
+N633,N368,f1=2732.72,f2=-0.355263,isDominant=1
+N368,N633,f1=2732.72,f2=-0.355263,isDominant=1
+--------The 3-th outer loop ends--------
+N368,N633,f1=2732.72,f2=-0.355263,isDominant=1
+N633,N368,f1=2732.72,f2=-0.355263,isDominant=1
+N633,N368,f1=2732.72,f2=-0.355263,isDominant=1
+N368,N633,f1=2732.72,f2=-0.355263,isDominant=1
+--------The 4-th outer loop ends--------
+N368,N633,2732.72,-0.355263,1
+N633,N368,2732.72,-0.355263,1
+N633,N368,2732.72,-0.355263,1
+N368,N633,2732.72,-0.355263,1
+---------------------------------Right_Dataset_Num=46
+--------The 5-th outer loop ends--------
+Running_time= 4.648667
+Model3----Dataset47------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=579,obj2=305
+snp_number=1000,sample_number=4000,obj1=579,obj2=305
+snp_number=1000,sample_number=4000,obj1=579,obj2=305
+snp_number=1000,sample_number=4000,obj1=579,obj2=305
+snp_number=1000,sample_number=4000,obj1=579,obj2=305
+N560,N727,f1=2767.08,f2=-0.351104,isDominant=1
+N470,N509,f1=2766.4,f2=-0.350064,isDominant=1
+--------The 0-th outer loop ends--------
+N470,N305,f1=2742.7,f2=-0.353881,isDominant=1
+--------The 1-th outer loop ends--------
+N470,N305,f1=2742.7,f2=-0.353881,isDominant=1
+--------The 2-th outer loop ends--------
+N470,N305,f1=2742.7,f2=-0.353881,isDominant=1
+--------The 3-th outer loop ends--------
+N470,N305,f1=2742.7,f2=-0.353881,isDominant=1
+--------The 4-th outer loop ends--------
+N470,N305,2742.7,-0.353881,1
+---------------------------------Right_Dataset_Num=47
+--------The 5-th outer loop ends--------
+Running_time= 4.651430
+Model3----Dataset48------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=622,obj2=943
+snp_number=1000,sample_number=4000,obj1=622,obj2=943
+snp_number=1000,sample_number=4000,obj1=622,obj2=943
+snp_number=1000,sample_number=4000,obj1=622,obj2=943
+snp_number=1000,sample_number=4000,obj1=622,obj2=943
+N622,N943,f1=2746.63,f2=-0.353481,isDominant=1
+--------The 0-th outer loop ends--------
+N622,N943,f1=2746.63,f2=-0.353481,isDominant=1
+--------The 1-th outer loop ends--------
+N622,N943,f1=2746.63,f2=-0.353481,isDominant=1
+--------The 2-th outer loop ends--------
+N622,N943,f1=2746.63,f2=-0.353481,isDominant=1
+--------The 3-th outer loop ends--------
+N622,N943,f1=2746.63,f2=-0.353481,isDominant=1
+--------The 4-th outer loop ends--------
+N622,N943,2746.63,-0.353481,1
+---------------------------------Right_Dataset_Num=48
+--------The 5-th outer loop ends--------
+Running_time= 4.652318
+Model3----Dataset49------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=277,obj2=240
+snp_number=1000,sample_number=4000,obj1=277,obj2=240
+snp_number=1000,sample_number=4000,obj1=277,obj2=240
+snp_number=1000,sample_number=4000,obj1=277,obj2=240
+snp_number=1000,sample_number=4000,obj1=277,obj2=240
+--------The 0-th outer loop ends--------
+N277,N240,f1=2737.23,f2=-0.354965,isDominant=1
+--------The 1-th outer loop ends--------
+N277,N240,f1=2737.23,f2=-0.354965,isDominant=1
+N240,N277,f1=2737.23,f2=-0.354965,isDominant=1
+--------The 2-th outer loop ends--------
+N277,N240,f1=2737.23,f2=-0.354965,isDominant=1
+N240,N277,f1=2737.23,f2=-0.354965,isDominant=1
+--------The 3-th outer loop ends--------
+N277,N240,f1=2737.23,f2=-0.354965,isDominant=1
+N240,N277,f1=2737.23,f2=-0.354965,isDominant=1
+N277,N240,f1=2737.23,f2=-0.354965,isDominant=1
+N240,N277,f1=2737.23,f2=-0.354965,isDominant=1
+--------The 4-th outer loop ends--------
+N277,N240,2737.23,-0.354965,1
+N240,N277,2737.23,-0.354965,1
+---------------------------------Right_Dataset_Num=49
+--------The 5-th outer loop ends--------
+Running_time= 4.650807
+Model3----Dataset50------------------------------------------------
+snp_number=1000,sample_number=4000,obj1=791,obj2=104
+snp_number=1000,sample_number=4000,obj1=791,obj2=104
+snp_number=1000,sample_number=4000,obj1=791,obj2=104
+snp_number=1000,sample_number=4000,obj1=791,obj2=104
+snp_number=1000,sample_number=4000,obj1=791,obj2=104
+N104,N625,f1=2772.31,f2=-0.350267,isDominant=1
+N509,N791,f1=2766.49,f2=-0.350164,isDominant=1
+--------The 0-th outer loop ends--------
+N104,N791,f1=2736.86,f2=-0.354437,isDominant=1
+N791,N104,f1=2736.86,f2=-0.354437,isDominant=1
+--------The 1-th outer loop ends--------
+N104,N791,f1=2736.86,f2=-0.354437,isDominant=1
+N791,N104,f1=2736.86,f2=-0.354437,isDominant=1
+--------The 2-th outer loop ends--------
+N104,N791,f1=2736.86,f2=-0.354437,isDominant=1
+N791,N104,f1=2736.86,f2=-0.354437,isDominant=1
+--------The 3-th outer loop ends--------
+N104,N791,f1=2736.86,f2=-0.354437,isDominant=1
+N791,N104,f1=2736.86,f2=-0.354437,isDominant=1
+--------The 4-th outer loop ends--------
+N791,N104,2736.86,-0.354437,1
+N104,N791,2736.86,-0.354437,1
+N104,N791,2736.86,-0.354437,1
+N791,N104,2736.86,-0.354437,1
+---------------------------------Right_Dataset_Num=50
+--------The 5-th outer loop ends--------
+Running_time= 4.665559
