@@ -128,8 +128,7 @@
 #include "utils.h"
 #include<stdlib.h>
 #include<time.h>
-
-
+#include <cstdlib> 
 
 
 #define CHECK(res) if(res!=cudaSuccess){exit(-1);}
@@ -161,8 +160,9 @@ void g_read_data(string filename,int** &d_data,int* &d_label,int* &dc,int &sampl
     ifstream file;
     file.open(filename.c_str(), ios::in);
     if (file.fail()) {
-        cout << "文件不存在." << endl;
+        cout << "The file does not exist." << endl;
         file.close();
+        exit(1);
     } else {
         string firstline;
         string tmp0;
