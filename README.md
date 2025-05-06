@@ -1,4 +1,4 @@
-## 1.System Requirements
+## 1.Environment installation
 
 1. **CUDA**: This project requires CUDA support for accelerated computations. Please ensure you have installed the appropriate version of CUDA for your GPU.
    - Install CUDA: [CUDA Installation Guide](https://developer.nvidia.com/cuda-toolkit)
